@@ -1,0 +1,13 @@
+D:\Development\Project\ProjectSharp\DynamicArray\bin\Debug\netcoreapp3.1\DynamicArray.exe
+D:\Development\Project\ProjectSharp\DynamicArray\bin\Debug\netcoreapp3.1\DynamicArray.deps.json
+D:\Development\Project\ProjectSharp\DynamicArray\bin\Debug\netcoreapp3.1\DynamicArray.runtimeconfig.json
+D:\Development\Project\ProjectSharp\DynamicArray\bin\Debug\netcoreapp3.1\DynamicArray.runtimeconfig.dev.json
+D:\Development\Project\ProjectSharp\DynamicArray\bin\Debug\netcoreapp3.1\DynamicArray.dll
+D:\Development\Project\ProjectSharp\DynamicArray\bin\Debug\netcoreapp3.1\DynamicArray.pdb
+D:\Development\Project\ProjectSharp\DynamicArray\obj\Debug\netcoreapp3.1\DynamicArray.csprojAssemblyReference.cache
+D:\Development\Project\ProjectSharp\DynamicArray\obj\Debug\netcoreapp3.1\DynamicArray.AssemblyInfoInputs.cache
+D:\Development\Project\ProjectSharp\DynamicArray\obj\Debug\netcoreapp3.1\DynamicArray.AssemblyInfo.cs
+D:\Development\Project\ProjectSharp\DynamicArray\obj\Debug\netcoreapp3.1\DynamicArray.csproj.CoreCompileInputs.cache
+D:\Development\Project\ProjectSharp\DynamicArray\obj\Debug\netcoreapp3.1\DynamicArray.dll
+D:\Development\Project\ProjectSharp\DynamicArray\obj\Debug\netcoreapp3.1\DynamicArray.pdb
+D:\Development\Project\ProjectSharp\DynamicArray\obj\Debug\netcoreapp3.1\DynamicArray.genruntimeconfig.cache

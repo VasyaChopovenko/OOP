@@ -1,0 +1,13 @@
+D:\Development\Project\TaxiStop\bin\Debug\netcoreapp3.1\TaxiStop.exe
+D:\Development\Project\TaxiStop\bin\Debug\netcoreapp3.1\TaxiStop.deps.json
+D:\Development\Project\TaxiStop\bin\Debug\netcoreapp3.1\TaxiStop.runtimeconfig.json
+D:\Development\Project\TaxiStop\bin\Debug\netcoreapp3.1\TaxiStop.runtimeconfig.dev.json
+D:\Development\Project\TaxiStop\bin\Debug\netcoreapp3.1\TaxiStop.dll
+D:\Development\Project\TaxiStop\bin\Debug\netcoreapp3.1\TaxiStop.pdb
+D:\Development\Project\TaxiStop\obj\Debug\netcoreapp3.1\TaxiStop.csprojAssemblyReference.cache
+D:\Development\Project\TaxiStop\obj\Debug\netcoreapp3.1\TaxiStop.AssemblyInfoInputs.cache
+D:\Development\Project\TaxiStop\obj\Debug\netcoreapp3.1\TaxiStop.AssemblyInfo.cs
+D:\Development\Project\TaxiStop\obj\Debug\netcoreapp3.1\TaxiStop.csproj.CoreCompileInputs.cache
+D:\Development\Project\TaxiStop\obj\Debug\netcoreapp3.1\TaxiStop.dll
+D:\Development\Project\TaxiStop\obj\Debug\netcoreapp3.1\TaxiStop.pdb
+D:\Development\Project\TaxiStop\obj\Debug\netcoreapp3.1\TaxiStop.genruntimeconfig.cache

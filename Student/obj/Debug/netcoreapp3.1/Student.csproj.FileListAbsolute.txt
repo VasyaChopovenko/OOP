@@ -1,0 +1,13 @@
+D:\Development\Project\ProjectSharp\Student\obj\Debug\netcoreapp3.1\Student.csprojAssemblyReference.cache
+D:\Development\Project\ProjectSharp\Student\obj\Debug\netcoreapp3.1\Student.AssemblyInfoInputs.cache
+D:\Development\Project\ProjectSharp\Student\obj\Debug\netcoreapp3.1\Student.AssemblyInfo.cs
+D:\Development\Project\ProjectSharp\Student\obj\Debug\netcoreapp3.1\Student.csproj.CoreCompileInputs.cache
+D:\Development\Project\ProjectSharp\Student\bin\Debug\netcoreapp3.1\Student.exe
+D:\Development\Project\ProjectSharp\Student\bin\Debug\netcoreapp3.1\Student.deps.json
+D:\Development\Project\ProjectSharp\Student\bin\Debug\netcoreapp3.1\Student.runtimeconfig.json
+D:\Development\Project\ProjectSharp\Student\bin\Debug\netcoreapp3.1\Student.runtimeconfig.dev.json
+D:\Development\Project\ProjectSharp\Student\bin\Debug\netcoreapp3.1\Student.dll
+D:\Development\Project\ProjectSharp\Student\bin\Debug\netcoreapp3.1\Student.pdb
+D:\Development\Project\ProjectSharp\Student\obj\Debug\netcoreapp3.1\Student.dll
+D:\Development\Project\ProjectSharp\Student\obj\Debug\netcoreapp3.1\Student.pdb
+D:\Development\Project\ProjectSharp\Student\obj\Debug\netcoreapp3.1\Student.genruntimeconfig.cache

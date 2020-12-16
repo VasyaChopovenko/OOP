@@ -1,0 +1,13 @@
+D:\Development\Project\ProjectSharp\phone_book\bin\Debug\netcoreapp3.1\phone_book.exe
+D:\Development\Project\ProjectSharp\phone_book\bin\Debug\netcoreapp3.1\phone_book.deps.json
+D:\Development\Project\ProjectSharp\phone_book\bin\Debug\netcoreapp3.1\phone_book.runtimeconfig.json
+D:\Development\Project\ProjectSharp\phone_book\bin\Debug\netcoreapp3.1\phone_book.runtimeconfig.dev.json
+D:\Development\Project\ProjectSharp\phone_book\bin\Debug\netcoreapp3.1\phone_book.dll
+D:\Development\Project\ProjectSharp\phone_book\bin\Debug\netcoreapp3.1\phone_book.pdb
+D:\Development\Project\ProjectSharp\phone_book\obj\Debug\netcoreapp3.1\phone_book.csprojAssemblyReference.cache
+D:\Development\Project\ProjectSharp\phone_book\obj\Debug\netcoreapp3.1\phone_book.AssemblyInfoInputs.cache
+D:\Development\Project\ProjectSharp\phone_book\obj\Debug\netcoreapp3.1\phone_book.AssemblyInfo.cs
+D:\Development\Project\ProjectSharp\phone_book\obj\Debug\netcoreapp3.1\phone_book.csproj.CoreCompileInputs.cache
+D:\Development\Project\ProjectSharp\phone_book\obj\Debug\netcoreapp3.1\phone_book.dll
+D:\Development\Project\ProjectSharp\phone_book\obj\Debug\netcoreapp3.1\phone_book.pdb
+D:\Development\Project\ProjectSharp\phone_book\obj\Debug\netcoreapp3.1\phone_book.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Development\Project\Printer\bin\Debug\netcoreapp3.1\Printer.exe
+D:\Development\Project\Printer\bin\Debug\netcoreapp3.1\Printer.deps.json
+D:\Development\Project\Printer\bin\Debug\netcoreapp3.1\Printer.runtimeconfig.json
+D:\Development\Project\Printer\bin\Debug\netcoreapp3.1\Printer.runtimeconfig.dev.json
+D:\Development\Project\Printer\bin\Debug\netcoreapp3.1\Printer.dll
+D:\Development\Project\Printer\bin\Debug\netcoreapp3.1\Printer.pdb
+D:\Development\Project\Printer\obj\Debug\netcoreapp3.1\Printer.csprojAssemblyReference.cache
+D:\Development\Project\Printer\obj\Debug\netcoreapp3.1\Printer.AssemblyInfoInputs.cache
+D:\Development\Project\Printer\obj\Debug\netcoreapp3.1\Printer.AssemblyInfo.cs
+D:\Development\Project\Printer\obj\Debug\netcoreapp3.1\Printer.csproj.CoreCompileInputs.cache
+D:\Development\Project\Printer\obj\Debug\netcoreapp3.1\Printer.dll
+D:\Development\Project\Printer\obj\Debug\netcoreapp3.1\Printer.pdb
+D:\Development\Project\Printer\obj\Debug\netcoreapp3.1\Printer.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Development\Project\ProjectSharp\Building\obj\Debug\netcoreapp3.1\Building.csprojAssemblyReference.cache
+D:\Development\Project\ProjectSharp\Building\obj\Debug\netcoreapp3.1\Building.AssemblyInfoInputs.cache
+D:\Development\Project\ProjectSharp\Building\obj\Debug\netcoreapp3.1\Building.AssemblyInfo.cs
+D:\Development\Project\ProjectSharp\Building\obj\Debug\netcoreapp3.1\Building.csproj.CoreCompileInputs.cache
+D:\Development\Project\ProjectSharp\Building\bin\Debug\netcoreapp3.1\Building.exe
+D:\Development\Project\ProjectSharp\Building\bin\Debug\netcoreapp3.1\Building.deps.json
+D:\Development\Project\ProjectSharp\Building\bin\Debug\netcoreapp3.1\Building.runtimeconfig.json
+D:\Development\Project\ProjectSharp\Building\bin\Debug\netcoreapp3.1\Building.runtimeconfig.dev.json
+D:\Development\Project\ProjectSharp\Building\bin\Debug\netcoreapp3.1\Building.dll
+D:\Development\Project\ProjectSharp\Building\bin\Debug\netcoreapp3.1\Building.pdb
+D:\Development\Project\ProjectSharp\Building\obj\Debug\netcoreapp3.1\Building.dll
+D:\Development\Project\ProjectSharp\Building\obj\Debug\netcoreapp3.1\Building.pdb
+D:\Development\Project\ProjectSharp\Building\obj\Debug\netcoreapp3.1\Building.genruntimeconfig.cache

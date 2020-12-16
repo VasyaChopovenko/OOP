@@ -1,0 +1,13 @@
+D:\Development\Project\ProjectSharp\String\bin\Debug\netcoreapp3.1\String.exe
+D:\Development\Project\ProjectSharp\String\bin\Debug\netcoreapp3.1\String.deps.json
+D:\Development\Project\ProjectSharp\String\bin\Debug\netcoreapp3.1\String.runtimeconfig.json
+D:\Development\Project\ProjectSharp\String\bin\Debug\netcoreapp3.1\String.runtimeconfig.dev.json
+D:\Development\Project\ProjectSharp\String\bin\Debug\netcoreapp3.1\String.dll
+D:\Development\Project\ProjectSharp\String\bin\Debug\netcoreapp3.1\String.pdb
+D:\Development\Project\ProjectSharp\String\obj\Debug\netcoreapp3.1\String.csprojAssemblyReference.cache
+D:\Development\Project\ProjectSharp\String\obj\Debug\netcoreapp3.1\String.AssemblyInfoInputs.cache
+D:\Development\Project\ProjectSharp\String\obj\Debug\netcoreapp3.1\String.AssemblyInfo.cs
+D:\Development\Project\ProjectSharp\String\obj\Debug\netcoreapp3.1\String.csproj.CoreCompileInputs.cache
+D:\Development\Project\ProjectSharp\String\obj\Debug\netcoreapp3.1\String.dll
+D:\Development\Project\ProjectSharp\String\obj\Debug\netcoreapp3.1\String.pdb
+D:\Development\Project\ProjectSharp\String\obj\Debug\netcoreapp3.1\String.genruntimeconfig.cache

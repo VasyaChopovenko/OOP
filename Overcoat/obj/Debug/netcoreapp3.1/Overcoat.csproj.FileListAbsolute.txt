@@ -1,0 +1,13 @@
+D:\Development\Project\ProjectSharp\Overcoat\bin\Debug\netcoreapp3.1\Overcoat.exe
+D:\Development\Project\ProjectSharp\Overcoat\bin\Debug\netcoreapp3.1\Overcoat.deps.json
+D:\Development\Project\ProjectSharp\Overcoat\bin\Debug\netcoreapp3.1\Overcoat.runtimeconfig.json
+D:\Development\Project\ProjectSharp\Overcoat\bin\Debug\netcoreapp3.1\Overcoat.runtimeconfig.dev.json
+D:\Development\Project\ProjectSharp\Overcoat\bin\Debug\netcoreapp3.1\Overcoat.dll
+D:\Development\Project\ProjectSharp\Overcoat\bin\Debug\netcoreapp3.1\Overcoat.pdb
+D:\Development\Project\ProjectSharp\Overcoat\obj\Debug\netcoreapp3.1\Overcoat.csprojAssemblyReference.cache
+D:\Development\Project\ProjectSharp\Overcoat\obj\Debug\netcoreapp3.1\Overcoat.AssemblyInfoInputs.cache
+D:\Development\Project\ProjectSharp\Overcoat\obj\Debug\netcoreapp3.1\Overcoat.AssemblyInfo.cs
+D:\Development\Project\ProjectSharp\Overcoat\obj\Debug\netcoreapp3.1\Overcoat.csproj.CoreCompileInputs.cache
+D:\Development\Project\ProjectSharp\Overcoat\obj\Debug\netcoreapp3.1\Overcoat.dll
+D:\Development\Project\ProjectSharp\Overcoat\obj\Debug\netcoreapp3.1\Overcoat.pdb
+D:\Development\Project\ProjectSharp\Overcoat\obj\Debug\netcoreapp3.1\Overcoat.genruntimeconfig.cache
