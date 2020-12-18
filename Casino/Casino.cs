@@ -3,7 +3,9 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
+using System.IO;
 using System.Linq;
+using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
@@ -17,29 +19,38 @@ namespace Casino
         int counter_try = 0; 
         int win_money = 0; 
         bool IsActive = true;
-        
+        Image[] image = new Image[8];
+        int[] index = new int[3];
+
         public Casino()
         {
             InitializeComponent();
+            for (int i = 0; i < image.Length; i++)
+            {
+                image[i] = Image.FromFile($@"..\..\images\\{i + 1}.png");
+            }
         }
 
         private void dvg1_Tick(object sender, EventArgs e)
         {
             Random random = new Random(); 
-            int dvg = random.Next(8); 
-            label1.Text = dvg.ToString(); 
+            int dvg = random.Next(0, 8);
+            pictureBox1.Image = image[dvg];
+            index[0] = dvg;
         }
         private void dvg2_Tick(object sender, EventArgs e)
         {
             Random random = new Random();
-            int dvg = random.Next(8);
-            label2.Text = dvg.ToString();
+            int dvg = random.Next(0, 8);
+            pictureBox2.Image = image[dvg];
+            index[1] = dvg;
         }
         private void dvg3_Tick(object sender, EventArgs e)
         {
             Random random = new Random();
-            int dvg = random.Next(8);
-            label3.Text = dvg.ToString();
+            int dvg = random.Next(0, 8);
+            pictureBox3.Image = image[dvg];
+            index[2] = dvg;
         }
 
         private void stop1_Tick(object sender, EventArgs e)
@@ -76,22 +87,22 @@ namespace Casino
 
         private void Win_Money()
         {
-            if (label1.Text == "0" && label2.Text == "0" && label3.Text == "0") Upd_Win_Money(17);
-            if (label1.Text == "1" && label2.Text == "1" && label3.Text == "1") Upd_Win_Money(10);
-            if (label1.Text == "2" && label2.Text == "2" && label3.Text == "2") Upd_Win_Money(11);
-            if (label1.Text == "3" && label2.Text == "3" && label3.Text == "3") Upd_Win_Money(12);
-            if (label1.Text == "4" && label2.Text == "4" && label3.Text == "4") Upd_Win_Money(13);
-            if (label1.Text == "5" && label2.Text == "5" && label3.Text == "5") Upd_Win_Money(14);
-            if (label1.Text == "6" && label2.Text == "6" && label3.Text == "6") Upd_Win_Money(15);
-            if (label1.Text == "7" && label2.Text == "7" && label3.Text == "7") Upd_Win_Money(20);
-            if ((label1.Text == "0" && label2.Text == "0") || (label2.Text == "0" && label3.Text == "0")) Upd_Win_Money(7);
-            if ((label1.Text == "1" && label2.Text == "1") || (label2.Text == "1" && label3.Text == "1")) Upd_Win_Money(1);
-            if ((label1.Text == "2" && label2.Text == "2") || (label2.Text == "2" && label3.Text == "2")) Upd_Win_Money(2);
-            if ((label1.Text == "3" && label2.Text == "3") || (label2.Text == "3" && label3.Text == "3")) Upd_Win_Money(3);
-            if ((label1.Text == "4" && label2.Text == "4") || (label2.Text == "4" && label3.Text == "4")) Upd_Win_Money(4);
-            if ((label1.Text == "5" && label2.Text == "5") || (label2.Text == "5" && label3.Text == "5")) Upd_Win_Money(5);
-            if ((label1.Text == "6" && label2.Text == "6") || (label2.Text == "6" && label3.Text == "6")) Upd_Win_Money(6);
-            if ((label1.Text == "7" && label2.Text == "7") || (label2.Text == "7" && label3.Text == "7")) Upd_Win_Money(10);
+            if (index[0] == 0 && index[1] == 0 && index[2] == 0) Upd_Win_Money(17);
+            if (index[0] == 1 && index[1] == 1 && index[2] == 1) Upd_Win_Money(10);
+            if (index[0] == 2 && index[1] == 2 && index[2] == 2) Upd_Win_Money(11);
+            if (index[0] == 3 && index[1] == 3 && index[2] == 3) Upd_Win_Money(12);
+            if (index[0] == 4 && index[1] == 4 && index[2] == 4) Upd_Win_Money(13);
+            if (index[0] == 5 && index[1] == 5 && index[2] == 5) Upd_Win_Money(14);
+            if (index[0] == 6 && index[1] == 6 && index[2] == 6) Upd_Win_Money(15);
+            if (index[0] == 7 && index[1] == 7 && index[2] == 7) Upd_Win_Money(20);
+            if ((index[0] == 0 && index[1] == 0) || (index[1] == 0 && index[2] == 0)) Upd_Win_Money(7);
+            if ((index[0] == 1 && index[1] == 1) || (index[1] == 1 && index[2] == 1)) Upd_Win_Money(1);
+            if ((index[0] == 2 && index[1] == 2) || (index[1] == 2 && index[2] == 2)) Upd_Win_Money(2);
+            if ((index[0] == 3 && index[1] == 3) || (index[1] == 3 && index[2] == 3)) Upd_Win_Money(3);
+            if ((index[0] == 4 && index[1] == 4) || (index[1] == 4 && index[2] == 4)) Upd_Win_Money(4);
+            if ((index[0] == 5 && index[1] == 5) || (index[1] == 5 && index[2] == 5)) Upd_Win_Money(5);
+            if ((index[0] == 6 && index[1] == 6) || (index[1] == 6 && index[2] == 6)) Upd_Win_Money(6);
+            if ((index[0] == 7 && index[1] == 7) || (index[1] == 7 && index[2] == 7)) Upd_Win_Money(10);
         }
 
         private void Upd_Win_Money(int number)
@@ -128,7 +139,7 @@ namespace Casino
             stop2.Enabled = true;
             stop3.Enabled = true;
             IsActive = true;
-            button1.Enabled = false; 
+            button1.Enabled = false;
         }
 
         private void button2_Click(object sender, EventArgs e)
