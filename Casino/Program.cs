@@ -16,7 +16,7 @@ namespace Casino
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Casino());
+            Application.Run(new Start());
         }
     }
 }

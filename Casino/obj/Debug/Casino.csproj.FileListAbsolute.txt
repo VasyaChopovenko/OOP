@@ -25,3 +25,5 @@ D:\Development\Project\ProjectSharp\OOP\Casino\obj\Debug\Casino.application
 D:\Development\Project\ProjectSharp\OOP\Casino\obj\Debug\Casino.exe
 D:\Development\Project\ProjectSharp\OOP\Casino\obj\Debug\Casino.pdb
 D:\Development\Project\ProjectSharp\OOP\Casino\obj\Debug\Casino.Casino.resources
+D:\Development\Project\ProjectSharp\OOP\Casino\obj\Debug\Casino.csprojAssemblyReference.cache
+D:\Development\Project\ProjectSharp\OOP\Casino\obj\Debug\Casino.Start.resources

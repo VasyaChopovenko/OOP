@@ -135,7 +135,7 @@ namespace Casino
             dvg1.Enabled = true;
             dvg2.Enabled = true;
             dvg3.Enabled = true;
-            stop1.Enabled = true;
+            stop1.Enabled = true;   
             stop2.Enabled = true;
             stop3.Enabled = true;
             IsActive = true;
@@ -147,6 +147,15 @@ namespace Casino
             Init_Counter(Convert.ToInt32(numericUpDown1.Value));
             button1.Enabled = true;
             button2.Enabled = false;
+        }
+
+        private void Casino_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            Form form = Application.OpenForms[0];
+            form.StartPosition = FormStartPosition.Manual; 
+            form.Left = Left; 
+            form.Top = Top; 
+            form.Show();
         }
     }
 }
