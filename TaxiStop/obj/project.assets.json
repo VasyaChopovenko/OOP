@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Development\\Project\\TaxiStop\\TaxiStop.csproj",
+      "projectUniqueName": "D:\\Development\\Project\\ProjectSharp\\OOP\\TaxiStop\\TaxiStop.csproj",
       "projectName": "TaxiStop",
-      "projectPath": "D:\\Development\\Project\\TaxiStop\\TaxiStop.csproj",
+      "projectPath": "D:\\Development\\Project\\ProjectSharp\\OOP\\TaxiStop\\TaxiStop.csproj",
       "packagesPath": "C:\\Users\\VasyaChopovenko\\.nuget\\packages\\",
-      "outputPath": "D:\\Development\\Project\\TaxiStop\\obj\\",
+      "outputPath": "D:\\Development\\Project\\ProjectSharp\\OOP\\TaxiStop\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\VasyaChopovenko\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Casino.exe" size="14880">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Casino.exe" size="343584">
       <assemblyIdentity name="Casino" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>xpgawsPM5sLkqsr/9eDcGUx2aWgAx1bSFIPZ6kvV3tQ=</dsig:DigestValue>
+        <dsig:DigestValue>FnsFsDpnAKrq5QEkmsSLQRdxGxurD0HM1roGys8LGxI=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

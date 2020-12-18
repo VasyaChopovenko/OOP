@@ -10,15 +10,15 @@ using System.Windows.Forms;
 
 namespace Casino
 {
-    public partial class Form1 : Form
+    public partial class Casino : Form
     {
         int balance = 100; 
         int counter_money = 0; 
         int counter_try = 0; 
         int win_money = 0; 
-        bool IsActive = true; 
-
-        public Form1()
+        bool IsActive = true;
+        
+        public Casino()
         {
             InitializeComponent();
         }

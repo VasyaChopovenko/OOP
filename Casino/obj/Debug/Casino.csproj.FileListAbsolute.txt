@@ -12,3 +12,17 @@ D:\Development\Project\ProjectSharp\Casino\bin\Debug\Casino.exe.manifest
 D:\Development\Project\ProjectSharp\Casino\bin\Debug\Casino.application
 D:\Development\Project\ProjectSharp\Casino\obj\Debug\Casino.exe.manifest
 D:\Development\Project\ProjectSharp\Casino\obj\Debug\Casino.application
+D:\Development\Project\ProjectSharp\OOP\Casino\bin\Debug\Casino.exe.config
+D:\Development\Project\ProjectSharp\OOP\Casino\bin\Debug\Casino.exe.manifest
+D:\Development\Project\ProjectSharp\OOP\Casino\bin\Debug\Casino.application
+D:\Development\Project\ProjectSharp\OOP\Casino\bin\Debug\Casino.exe
+D:\Development\Project\ProjectSharp\OOP\Casino\bin\Debug\Casino.pdb
+D:\Development\Project\ProjectSharp\OOP\Casino\obj\Debug\Casino.csprojAssemblyReference.cache
+D:\Development\Project\ProjectSharp\OOP\Casino\obj\Debug\Casino.Properties.Resources.resources
+D:\Development\Project\ProjectSharp\OOP\Casino\obj\Debug\Casino.csproj.GenerateResource.cache
+D:\Development\Project\ProjectSharp\OOP\Casino\obj\Debug\Casino.csproj.CoreCompileInputs.cache
+D:\Development\Project\ProjectSharp\OOP\Casino\obj\Debug\Casino.exe.manifest
+D:\Development\Project\ProjectSharp\OOP\Casino\obj\Debug\Casino.application
+D:\Development\Project\ProjectSharp\OOP\Casino\obj\Debug\Casino.exe
+D:\Development\Project\ProjectSharp\OOP\Casino\obj\Debug\Casino.pdb
+D:\Development\Project\ProjectSharp\OOP\Casino\obj\Debug\Casino.Casino.resources
